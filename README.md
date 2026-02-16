@@ -87,7 +87,7 @@ npm test
 
 Esempio di output iniziale:
 
-![](./img/test-report.png)
+![](./img/test-report-failed.png)
 
 **Durante il lavoro:**
 - Ogni volta che completi una funzione correttamente, il test corrispondente diventerà ✅ `PASS`
@@ -96,6 +96,8 @@ Esempio di output iniziale:
 **Quando hai finito:**
 - Tutti i test dovranno essere verdi ✅ `PASS`
 - Questo significa che tutte le tue funzioni funzionano correttamente!
+
+![](./img/test-report-passed.png)
 
 ## Consigli pratici
 
